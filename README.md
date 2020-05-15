@@ -8,7 +8,7 @@
 | Type of View              | Response                                                                                                                                                  |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Communal / Individual     | Unclear with mutualism (is seen as communal *and* individual in various aspects) 	                                                            |
-| Cultural                  | Neutral                                                                                                                                                   |
+| Cultural                  | Generally left-leaning, otherwise neutral                                      |
 | Economic Policy           | Usually mutualist, but supports [Georgism](https://en.wikipedia.org/wiki/Georgism) and [Market Socialism](https://en.wikipedia.org/wiki/Market_socialism) |
 | Social                    | Radical [liberalism](https://en.wikipedia.org/wiki/Liberalism)                                                                                            |
 | Speed/Direction of Change | Revolutionary or Progressive (depending on method of change)                                                                                              |
