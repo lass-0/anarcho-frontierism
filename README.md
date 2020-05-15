@@ -7,7 +7,7 @@
 ## General Information
 | Type of View              | Response                                                                                                                                                  |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Communal / Individual     | Neutral or Unclear (with mutualism, is seen as communal *and* individual in various aspects) 	                                                            |
+| Communal / Individual     | Unclear with mutualism (is seen as communal *and* individual in various aspects) 	                                                            |
 | Cultural                  | Neutral                                                                                                                                                   |
 | Economic Policy           | Usually mutualist, but supports [Georgism](https://en.wikipedia.org/wiki/Georgism) and [Market Socialism](https://en.wikipedia.org/wiki/Market_socialism) |
 | Social                    | Radical [liberalism](https://en.wikipedia.org/wiki/Liberalism)                                                                                            |
